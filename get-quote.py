@@ -1,4 +1,4 @@
-def main():
+def tj():
 
   print("Keep it logically awesome.")
 
@@ -9,4 +9,4 @@ def main():
   #print(quotes)
 
 if __name__== "__main__":
-  main()
+  tj()
